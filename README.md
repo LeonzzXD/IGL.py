@@ -1,4 +1,4 @@
-git clone https://github.com/LeonzzXD/IGL
+git clone https://github.com/LeonzzXD/IGL.py
 
 cd IGL
 
